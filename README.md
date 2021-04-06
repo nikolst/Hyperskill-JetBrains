@@ -17,6 +17,7 @@ Learning outcomes:
 Learning outcomes:
 *In this project, you will find out how the banking system works and learn about SQL. We'll also see how Luhn algorithm can help us avoid mistakes when entering the card number. As an overall result, you'll get new experience in Java.*
 
+![Card](https://github.com/nikolst/Hyperskill-JetBrains-Projects-Java/blob/main/Simple_Banking_System/SimpleBankingSystem_1/Screenshot%202021-04-06%20at%2017.34.47.png)
 
 ## Simple Chatty Bot
 Learning outcomes:
